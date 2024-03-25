@@ -12,8 +12,9 @@
 	
 	<groupId>com.plugins</groupId>
 	<artifactId>parent-pom</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<description>parent pom</description>
+    <packaging>pom</packaging>
 
 	<dependencies>
         <dependency>
